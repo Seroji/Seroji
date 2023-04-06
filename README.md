@@ -2,7 +2,7 @@
 ___
 My name is <b>Seroji</b>. Junior-developer studying Python.
 
-Use <i>Django</i>, <i>PostgreSQL</i>, some <i>HTML</i> and <i>CSS</i>.
+Use <i>Django</i>, <i>PostgreSQL</i>, some <i>HTML</i>, <i>CSS</i> and <i>Bootstrap 5</i>.
 
 ___
 Social networks:
